@@ -1,0 +1,79 @@
+/*body{
+    background-color: #E6E6FA;
+}
+
+
+
+span {
+    color: red;
+    font-weight: bold;
+}
+
+h1 {
+    color: blue;
+}
+
+ a { 
+     font-weight: bold;
+
+}
+
+p {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+span {
+    background-color: lightskyblue;
+}
+
+p.red {
+ background-color: red;
+}
+
+p.green {
+    background-color: green;
+}
+
+p.blue {
+    background-color: blue;
+}
+
+p.blue, p{
+    color: yellow;
+
+}
+
+p.red a,
+p.green a{
+    color: white;
+
+} */
+
+
+
+li.seen {
+    color: silver;
+
+}
+
+li.unseen {
+
+    color: red;
+}
+
+li.seen.good {
+    color: forestgreen;
+}
+
+
+
+#biography a {
+    text-decoration: none;
+}
+
+#biography a:hover {
+    text-decoration: underline;
+}
+
+
+
