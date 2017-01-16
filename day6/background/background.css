@@ -1,0 +1,45 @@
+.outer {
+    width: 80%;
+    height:80vh;
+    margin-top: 10vh;
+    margin-left: auto;
+    margin-right: auto;
+    background: linear-gradient(#F46629 0%, #EAAA2A 45%,  #47AEB7 70%, #23538A 100% ); 
+
+    
+
+}
+
+.inner {
+    width: 50%;
+    margin: 10%;
+    color: #ffffff;
+    padding: 1em;
+
+}
+
+
+.smilling {
+    width: 200px;
+    height: 200px;
+    border: 1px;
+    border-color: white;
+    background-image: url("img/smiley.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0, auto;
+    background-size: 50%;
+}
+
+.nebula {
+    width: 100%;
+  color: white;
+    background-image: url("img/nebula.jpg");
+    padding: 2em;
+    background-size: cover;
+    background-attachment: fixed;
+    box-sizing: border-box;
+    
+
+}
+

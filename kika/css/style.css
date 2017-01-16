@@ -1,0 +1,48 @@
+body {
+    color: cadetblue;
+}
+
+h1 {
+    color: blue;
+}
+
+a {
+    font-weight: bold;
+}
+
+p {
+    background-color: rgba(0, 0, 0, 0.5);
+    
+}
+
+p.red {
+    background-color: red;
+}
+
+p.green {
+    background-color: green;
+}
+
+p.blue {
+    background-color: blue;
+}
+
+p.blue p {
+    color: yellow;
+
+}
+
+p.red a,
+p.green a{
+    color: white;
+
+} 
+
+#biography a {
+    text-decoration: none;
+}
+
+#biography a:hover {
+    text-decoration: underline;
+}
+

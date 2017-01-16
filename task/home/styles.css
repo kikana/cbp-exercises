@@ -1,0 +1,21 @@
+body {
+    background-color:  #e6fff7;
+    }
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 200%;
+}
+     p {
+       font-family: 'Times New Roman', Times, serif;
+    font-size: 100%;
+    margin: 0px 15px 0px 15px;
+    
+}
+   
+  h2, h3, h4, h5 {
+       font-family: 'Times New Roman', Times, serif;
+    font-size: 120%;
+     margin: 15px;
+
+   }

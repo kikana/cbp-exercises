@@ -1,4 +1,4 @@
-/*body{
+body{
     background-color: #E6E6FA;
 }
 
@@ -10,24 +10,37 @@ span {
 }
 
 h1 {
-    color: blue;
+    color: deeppink;
+    font-size: 1em;
+
+}
+
+h2 {
+    font-variant: small-caps;
+}
+
+h1, h2, h3 {
+    font-family: Impact;
 }
 
  a { 
      font-weight: bold;
+     font-family: Arial;
 
 }
 
 p {
     background-color: rgba(0, 0, 0, 0.5);
+    line-height: 1.2;
 }
 
 span {
     background-color: lightskyblue;
 }
 
-p.red {
+/* p.red {
  background-color: red;
+
 }
 
 p.green {
@@ -58,7 +71,7 @@ li.seen {
 
 li.unseen {
 
-    color: red;
+    color: white;
 }
 
 li.seen.good {

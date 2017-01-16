@@ -1,0 +1,30 @@
+ body {
+
+ }   
+
+ .header {
+     height: 4em;
+     background-color: #999999;
+ }                
+
+ .content{
+     margin-left: auto;
+     margin-right: auto;
+     width: 1000px; /*good mesurment for centralized design*/
+      padding: 10px; /*all 4 sides*/
+
+
+ }
+
+ .content p {
+     border-left: 2px solid teal;
+     padding-right: 1em;
+
+ }
+
+ .content p:first-letter {
+     font-size: 3em;
+     float: left;
+     line-height: 1em;
+
+ }

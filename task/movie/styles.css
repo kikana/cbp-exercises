@@ -1,0 +1,36 @@
+body {
+    background-color:  #e6fff7;
+
+    }
+
+img {
+    width: 200px;
+    height: 300px;
+    
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 200%;
+}
+     p {
+       font-family: 'Times New Roman', Times, serif;
+    font-size: 100%;
+    border: 5px;
+    margin: 8px 15px 8px 15px;
+}
+    
+
+   
+  h2, h3, h4, h5, h6 {
+       font-family: 'Times New Roman', Times, serif;
+    font-size: 120%;
+     margin: 15px;
+    
+   }
+
+   li {
+       font-family: 'Times New Roman', Times, serif;
+    font-size: 100%;
+       
+   }
